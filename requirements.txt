@@ -1,10 +1,8 @@
+hashlib
+os
 streamlit
 pandas
 numpy
-yfinance
-scikit-learn
 lightgbm
 supabase
-transformers
-torch
-# vaderSentiment
+requests

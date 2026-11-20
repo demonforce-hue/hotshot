@@ -1,8 +1,6 @@
-hashlib
-os
-streamlit
-pandas
-numpy
-lightgbm
-supabase
-requests
+pandas>=2.2.0
+numpy>=1.26.0
+lightgbm>=4.3.0
+scikit-learn>=1.4.0
+requests>=2.31.0
+streamlit>=1.35.0
